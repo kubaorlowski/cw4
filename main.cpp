@@ -5,6 +5,10 @@
 #include <string>
 #include <sstream>
 #include <algorithm>
+#include "AnalizatorSygnalu.hpp"
+#include "Probka.hpp"
+#include "Sygnal.hpp"
+#include "SygnalLoader.hpp"
 
 
 using namespace std;
