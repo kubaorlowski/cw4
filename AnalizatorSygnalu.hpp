@@ -5,10 +5,10 @@ class AnalizatorSygnalu
 {
 public:
     AnalizatorSygnalu();
-    double dlugosc(const sygnal Sygnal&);
-    double minimum(const sygnal Sygnal&);
-    double srednia(const sygnal Sygnal&);
-    double calka(const sygnal Sygnal&);
+    double dlugosc(const Sygnal Sygnal&);
+    double minimum(const Sygnal Sygnal&);
+    double srednia(const Sygnal Sygnal&);
+    double calka(const Sygnal Sygnal&);
 };
 
 
